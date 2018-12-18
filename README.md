@@ -1,3 +1,3 @@
 # FEUP-ESOF
 
-Projects of Software Engineering (ESOF) class of the Master in Informatics and Computer Engineering (MIEIC) at FEUP.
+Projects for Software Engineering (ESOF) 2017/2018 1st semester at FEUP.
